@@ -1,0 +1,5 @@
+RewriteEngine On
+RewriteRule ^trang-chu.html$ /admin/dashboard.php [L]
+
+
+
